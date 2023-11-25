@@ -1,0 +1,17 @@
+bookshop.controller.AdminController=org.springframework.stereotype.Component
+bookshop.controller.BookController=javax.servlet.annotation.WebServlet
+bookshop.controller.BookControllerBussiness=org.springframework.stereotype.Component
+bookshop.controller.CartControllerBussiness=org.springframework.stereotype.Component
+bookshop.controller.OrderController=org.springframework.stereotype.Component
+bookshop.controller.UserController=org.springframework.stereotype.Component
+bookshop.dao.BookDAOImpl=org.springframework.stereotype.Component
+bookshop.dao.OrderDAOImpl=org.springframework.stereotype.Component
+bookshop.dao.UserDAOImpl=org.springframework.stereotype.Component
+bookshop.entity.Book=javax.persistence.Entity,javax.persistence.Table
+bookshop.entity.Order=javax.persistence.Entity,javax.persistence.Table
+bookshop.entity.User=javax.persistence.Entity,javax.persistence.Table
+bookshop.service.AdminServiceImpl=org.springframework.stereotype.Component
+bookshop.service.BookServiceImpl=org.springframework.stereotype.Component
+bookshop.service.CartServiceImpl=org.springframework.stereotype.Component
+bookshop.service.OrderServiceImpl=org.springframework.stereotype.Component
+bookshop.service.UserServiceImpl=org.springframework.stereotype.Component
